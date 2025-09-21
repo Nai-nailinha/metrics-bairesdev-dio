@@ -1,0 +1,17 @@
+Matriz de Confusão
+==================
+                Pred: Pos   Pred: Neg
+Real: Pos   ->   VP=90      FN=20    
+Real: Neg   ->   FP=10      VN=50    
+
+Métricas
+========
+Acurácia: 0.8235
+Precisão (PPV): 0.9000
+Recall / Sensibilidade (TPR): 0.8182
+Especificidade (TNR): 0.8333
+F1-Score: 0.8571
+Fallout (FPR): 0.1667
+NPV: 0.7143
+Prevalência: 0.6471
+Total: 170
